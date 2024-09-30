@@ -14,3 +14,27 @@ Of ICMP Echo Request packets also known as ping requests to the target.</strong>
 <li>Application layer attacks : these focus on specific applications, such as HTTP floods, targeting web servers to overwhelm them.
 </li>
 
+# DDOS Tool
+
+## Overview
+The DDOS Tool is a Python-based application designed to simulate Distributed Denial of Service (DDoS) attacks for educational purposes. It helps users understand how DDoS attacks work and the importance of network security.
+
+## Prerequisites
+Before running the code, ensure you have the following installed:
+- Python 3.x
+- pip (Python package installer)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TopeOlufemi/DDOS-Tool.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd DDOS-Tool
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
