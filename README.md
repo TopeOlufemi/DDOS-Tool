@@ -37,4 +37,8 @@ Before running the code, ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
+4. Run on Linux
+   ```bash
+    sudo python3 DDOS_Tool.py
+   ```
 
